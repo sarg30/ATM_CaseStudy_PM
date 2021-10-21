@@ -1,0 +1,36 @@
+1
+999999
+999999
+//enter the otp u recieve
+1
+2
+30000
+3
+4
+30000
+5
+12345
+7
+2
+12345
+12345
+//enter otp
+1
+1
+0
+500
+1
+1
+0
+50
+4
+6
+Sarthak
+8
+1
+999999
+999999
+6
+
+
+//the username and password for the admin is 999999
